@@ -1,12 +1,14 @@
 {
   "schema": "shitou-tpex-official-relay-v1",
   "source": "TPEx Official dailyQuotes",
-  "generatedAt": "2026-09-24T14:16:44Z",
-  "stocksUpdated": 9178,
+  "generatedAt": "2026-09-25T14:41:44Z",
+  "stocksUpdated": 8639,
   "daysRequested": 10,
-  "daysWithData": 9,
-  "stockRows": 50287,
+  "daysWithData": 6,
+  "stockRows": 33426,
   "errors": [
-    "2026-09-15: IncompleteRead(293662 bytes read)"
+    "2026-09-16: IncompleteRead(473710 bytes read)",
+    "2026-09-22: IncompleteRead(1063410 bytes read)",
+    "2026-09-24: IncompleteRead(1275900 bytes read)"
   ]
 }
