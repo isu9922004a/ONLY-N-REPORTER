@@ -1,10 +1,10 @@
 {
   "schema": "shitou-tpex-official-relay-v1",
   "source": "TPEx Official dailyQuotes",
-  "generatedAt": "2026-11-16T19:43:29Z",
-  "stocksUpdated": 9675,
+  "generatedAt": "2026-11-17T18:41:19Z",
+  "stocksUpdated": 9528,
   "daysRequested": 10,
   "daysWithData": 9,
-  "stockRows": 49218,
+  "stockRows": 47987,
   "errors": []
 }
